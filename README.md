@@ -1,5 +1,5 @@
 # JS-Drum-Kit
 
-Thanks Wes Bos
-#First Lesson
+Thanks Wes Bos <br>
+#First Lesson <br>
 #JS30
